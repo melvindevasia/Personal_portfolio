@@ -1,0 +1,1 @@
+This is my personal portfolio website showcasing my projects, skills, and experience as a web developer and Python enthusiast. The website includes sections about me, a showcase of my projects, and a contact page for reaching out.
